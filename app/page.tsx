@@ -95,7 +95,7 @@ export default function Home() {
           <div className="flex gap-4 justify-center" >
           <a href="/Nandana.J.pdf" download className="btn btn-outline btn-lg">
             <Button variant="outline" size="lg">
-              <Mail className="mr-2" /> Connect Me
+              <Mail className="mr-2" /> Download Resume
             </Button>
             </a>
             <Button variant="outline" size="lg" onClick={() => window.location.href = 'https://github.com/NJ9804?tab=repositories'}>
