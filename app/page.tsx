@@ -93,7 +93,7 @@ export default function Home() {
             <TextGenerateEffect words="Full Stack Developer | App & Web Developer | UI/UX Designer" />
           </div>
           <div className="flex gap-4 justify-center" >
-          <a href="/Nandana.J.pdf" download className="btn btn-outline btn-lg">
+          <a href="/Nandana__J.pdf" download className="btn btn-outline btn-lg">
             <Button variant="outline" size="lg">
               <Mail className="mr-2" /> Download Resume
             </Button>
