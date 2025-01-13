@@ -27,7 +27,7 @@ Web NJ uses cutting-edge technologies:
 Follow these steps to run Web NJ locally:
 
 ### Prerequisites
-- **Node.js** (version X.X.X or higher)
+- **Node.js** (version 18.x or higher)
 - **npm** or **yarn** (for package management)
 
 ### Installation
